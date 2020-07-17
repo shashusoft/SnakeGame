@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/atish/dev/Proto/SnakeGame/game.cpp
+GL/glut.h
+-
+ctime
+-
+GL/gl.h
+-
+game.hpp
+/home/atish/dev/Proto/SnakeGame/game.hpp
+
+/home/atish/dev/Proto/SnakeGame/game.hpp
+
